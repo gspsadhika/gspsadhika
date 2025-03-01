@@ -1,7 +1,5 @@
-👋 Hi, I am Sadhika Gorti, pursuing Master's in Business Analytics and Project Management at UConn.
+**Data & Tech Enthusiast | Business & Data Analyst | Product & AI Curious**
 
-👀 I’m interested in data exploration and application of logical techniques to describe the data. I want my data to tell stories and paint pictures.
+Hey there! I’m Sadhika Gorti, a Data Analyst with 3 years of experience in transforming raw data into actionable insights. My journey started with a Bachelor’s degree in Computer Science, giving me a solid foundation in software development, algorithms, and problem-solving. While I initially dabbled in full-stack development, my passion for data-driven decision-making led me to focus on analytics, predictive modeling, and business intelligence.
 
-🌱 I am learning tools that will help me understand and translate data into meaningful insights. Data stories would communicate key insights clearly and inspire action in business.
-
-Interested in pursing career as a Data Analyst, Data Engineer!
+I love unraveling complex data puzzles, designing insightful dashboards, and leveraging AI-powered analytics to drive smarter business decisions. Along the way, I’ve developed an appreciation for product ownership, agile methodologies, and strategic tech-driven problem-solving.
