@@ -1,5 +1,10 @@
 **Data & Tech Enthusiast | Business & Data Analyst | Product & AI Curious**
 
-Hey there! I’m Sadhika Gorti, a Data Analyst with 3 years of experience in transforming raw data into actionable insights. My journey started with a Bachelor’s degree in Computer Science, giving me a solid foundation in software development, algorithms, and problem-solving. While I initially dabbled in full-stack development, my passion for data-driven decision-making led me to focus on analytics, predictive modeling, and business intelligence.
+I’m Sadhika Gorti — a data-driven technologist with a foundation in full-stack development and a passion for analytics and predictive modeling.
 
-I love unraveling complex data puzzles, designing insightful dashboards, and leveraging AI-powered analytics to drive smarter business decisions. Along the way, I’ve developed an appreciation for product ownership, agile methodologies, and strategic tech-driven problem-solving.
+I started my career building responsive web apps using React, Node.js, HTML/CSS, and gradually transitioned into solving real-world problems through exploratory data analysis, machine learning, and data storytelling.
+On this GitHub, you'll find:
+Full-stack projects (React, Node.js) focused on real-time interactivity and clean UI/UX
+EDA and predictive modeling notebooks using Python, Pandas, Scikit-learn, and Matplotlib
+Work that blends product thinking, data insight, and clean technical execution
+Always building, always exploring — whether it's on the front end or behind the data.
