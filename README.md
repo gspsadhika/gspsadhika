@@ -8,6 +8,7 @@ I'm passionate about solving problems where data meets design and strategy meets
 🎯 My next goal: to own products end-to-end and build digital experiences that people love.
 
 📌 What You'll Find Here
+
 🧹 Data cleaning and transformation scripts
 
 📈 Exploratory analysis and dashboards
