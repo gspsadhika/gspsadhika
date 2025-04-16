@@ -1,5 +1,6 @@
 **Sadhika Gorti**
-Started as a Full Stack Developer | 📊 Now a Data Analyst | 🚀 Future Product Owner
+
+Started as a Full Stack Developer | 📊 Now a Business Analyst | 🚀 Product Enthusiast
 
 I'm passionate about solving problems where data meets design and strategy meets execution. With a background in Computer Science and a Master's in Business Analytics, I bring both technical depth and business insight to every project.
 
