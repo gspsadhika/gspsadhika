@@ -1,10 +1,16 @@
-**Data & Tech Enthusiast | Business & Data Analyst | Product & AI Curious**
+**Sadhika Gorti**
+Started as a Full Stack Developer | 📊 Now a Data Analyst | 🚀 Future Product Owner
 
-I’m Sadhika Gorti — a data-driven technologist with a foundation in full-stack development and a passion for analytics and predictive modeling.
+I'm passionate about solving problems where data meets design and strategy meets execution. With a background in Computer Science and a Master's in Business Analytics, I bring both technical depth and business insight to every project.
 
-I started my career building responsive web apps using React, Node.js, HTML/CSS, and gradually transitioned into solving real-world problems through exploratory data analysis, machine learning, and data storytelling.
-On this GitHub, you'll find:
-Full-stack projects (React, Node.js) focused on real-time interactivity and clean UI/UX
-EDA and predictive modeling notebooks using Python, Pandas, Scikit-learn, and Matplotlib
-Work that blends product thinking, data insight, and clean technical execution
-Always building, always exploring — whether it's on the front end or behind the data.
+🛠️ I began my career building scalable web apps — now I analyze complex datasets, build predictive models, and create dashboards that drive decision-making.
+🎯 My next goal: to own products end-to-end and build digital experiences that people love.
+
+📌 What You'll Find Here
+🧹 Data cleaning and transformation scripts
+
+📈 Exploratory analysis and dashboards
+
+🤖 Machine learning notebooks
+
+🧩 Projects that blend tech, business, and user needs
